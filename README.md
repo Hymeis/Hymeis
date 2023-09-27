@@ -18,10 +18,6 @@
             <li>Drawing✏️</li>
             <li>Gaming🎮</li>
           </ul>
-          <h3>Cool Courses Taken</h3>
-            <li>Compiler Design</li>
-            <li>Topology</li>
-            <li>3D Modeling</li>
         </td>
     </tr>
 </table>
