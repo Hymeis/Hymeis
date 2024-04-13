@@ -33,6 +33,9 @@
 ![Static Badge](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
 ![Static Badge](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&labelColor=010400&color=30332E)
 ![Static Badge](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
+![Static Badge](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&labelColor=FA8334&color=FFFD77)
+![Static Badge](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&labelColor=DAFF7D&color=B2EF9B)
+
 
 <h1>Leetcode statistics</h1>
 <p>I love solving Math-related problems, so sometimes working on Leetcode problems helps me relieve my pressure :)</p>
