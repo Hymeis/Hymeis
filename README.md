@@ -9,7 +9,7 @@
             <td width="66%" style="border:0px; width:66.66% top:0 text-align:bottom">
               <h3>About me</h3>
               <ul>
-                <li><b>MS</b> Student majoring in Computer Science and Engineering. Received <b>dual BS degree</b> in Computer Science and Engineering && Mathematics</li>
+                <li><b>BS/MS</b> Student majoring in Computer Science and Engineering. Received <b>dual BS degree</b> in Computer Science and Engineering && Mathematics</li>
                 <li>Have experience with deep learning, full-stack development, and private information retrieval</li>
                 <li>I love playing guitar, solving Math problems, and imagining things 🌱</li>
               </ul>
