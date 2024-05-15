@@ -15,7 +15,7 @@
               </ul>
               <h3>Hobbies</h3>
               <ul>
-                <li>Algorithms🎮</li>
+                <li>Guitar🎸</li>
                 <li>VR🎵</li>
                 <li>Drawing✏️</li>
               </ul>
