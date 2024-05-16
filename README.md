@@ -11,7 +11,7 @@
               <ul>
                 <li><b>BS/MS</b> Student majoring in Computer Science and Engineering. Received <b>dual BS degree</b> in Computer Science and Engineering && Mathematics</li>
                 <li>Have experience with deep learning, full-stack development, and private information retrieval</li>
-                <li>I love playing guitar, solving Math problems, and imagining things 🌱</li>
+                <li>I love playing guitar, solving Math problems, and imagining things 🌱 </li>
               </ul>
               <h3>Hobbies</h3>
               <ul>
