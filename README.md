@@ -22,7 +22,6 @@
             </td>
         </tr>
     </table>
-    
 </html>
 
 ![Static Badge](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&labelColor=335C67&color=FFF3B0)
