@@ -34,6 +34,7 @@
 ![Static Badge](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
 ![Static Badge](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&labelColor=FA8334&color=FFFD77)
 ![Static Badge](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&labelColor=DAFF7D&color=B2EF9B)
+![Static Badge](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=Flask&labelColor=2D2A32&color=DDD92A)
 
 
 <h1>Leetcode statistics</h1>
