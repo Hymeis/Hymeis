@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&labelColor=335C67&color=FFF3B0)
 ![Spring](https://img.shields.io/badge/Spring-red?style=for-the-badge&logo=spring&labelColor=293F14&color=386C0B)
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&labelColor=561D25&color=CE8147)
-![PyTorch](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=pytorch&labelColor=068D9D&color=53599A)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&labelColor=068D9D&color=53599A)
 ![OpenCV](https://img.shields.io/badge/opencv-red?style=for-the-badge&logo=opencv&labelColor=401F3E&color=3F2E56)
 ![Flask](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=Flask&labelColor=2D2A32&color=DDD92A)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
