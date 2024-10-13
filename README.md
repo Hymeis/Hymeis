@@ -24,18 +24,18 @@
     </table>
 </html>
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&labelColor=335C67&color=FFF3B0)
-![Spring](https://img.shields.io/badge/Spring-red?style=for-the-badge&logo=spring&labelColor=293F14&color=386C0B)
+![React](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&labelColor=FA8334&color=FFFD77)
+![Node.JS](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&labelColor=DAFF7D&color=B2EF9B)
+![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&labelColor=010400&color=30332E)
+![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&labelColor=638475&color=90E39A)
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&labelColor=561D25&color=CE8147)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&labelColor=068D9D&color=53599A)
 ![OpenCV](https://img.shields.io/badge/opencv-red?style=for-the-badge&logo=opencv&labelColor=401F3E&color=3F2E56)
 ![Flask](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=Flask&labelColor=2D2A32&color=DDD92A)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&labelColor=335C67&color=FFF3B0)
+![Spring](https://img.shields.io/badge/Spring-red?style=for-the-badge&logo=spring&labelColor=293F14&color=386C0B)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
-![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&labelColor=010400&color=30332E)
-![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&labelColor=638475&color=90E39A)
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
-![React](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&labelColor=FA8334&color=FFFD77)
-![Node.JS](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&labelColor=DAFF7D&color=B2EF9B)
 
 
 
