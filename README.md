@@ -36,6 +36,8 @@
 ![Spring](https://img.shields.io/badge/Spring-red?style=for-the-badge&logo=spring&labelColor=293F14&color=386C0B)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
+![Next.js](https://img.shields.io/badge/next.js-red?style=for-the-badge&logo=next.js&labelColor=817F82&color=AE8CA3)
+
 
 
 
