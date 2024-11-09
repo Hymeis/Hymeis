@@ -37,6 +37,8 @@
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
 ![Next.js](https://img.shields.io/badge/next.js-red?style=for-the-badge&logo=next.js&labelColor=000000&color=FFFFFC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-red?style=for-the-badge&logo=tailwindcss&labelColor=6DD3CE&color=C8E9A0)
+
 
 
 
