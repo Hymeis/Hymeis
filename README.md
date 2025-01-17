@@ -45,7 +45,7 @@
 
 
 <h1>Leetcode statistics</h1>
-<p>I love solving Math-related problems, so sometimes working on Leetcode problems helps me relieve my pressure :)</p>
+<p>I love solving Math-related problems, so sometimes working on Leetcode problems helps me relieve my pressure. I do them for fun :) </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/okamipancake?theme=dark&font=IBM%20Plex%20Sans%20Devanagari&ext=heatmap)
 
