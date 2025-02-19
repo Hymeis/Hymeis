@@ -29,6 +29,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&labelColor=010400&color=30332E)
 ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&labelColor=638475&color=90E39A)
 ![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&labelColor=561D25&color=CE8147)
+![React](https://img.shields.io/badge/numpy-red?style=for-the-badge&logo=numpy&labelColor=6C756B&color=93ACB5)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch&labelColor=068D9D&color=53599A)
 ![OpenCV](https://img.shields.io/badge/opencv-red?style=for-the-badge&logo=opencv&labelColor=401F3E&color=3F2E56)
 ![Flask](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=Flask&labelColor=2D2A32&color=DDD92A)
