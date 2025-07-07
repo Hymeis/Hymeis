@@ -11,7 +11,7 @@
               <ul>
                 <li><b>Graduated BS/MS</b> Student majoring in Computer Science and Engineering. Received <b>dual BS degree</b> in Computer Science and Engineering && Mathematics</li>
                 <li>Have experience with <b>deep learning</b>, <b>distributed systems</b>, <b>full-stack development</b>, and Internet of Things(IoT)</li>
-                <li><b>Won first place</b> at school on Putnam Exam, a national undergrad Math competition</li>
+                <li><b>Won first place</b> at school on Putnam Exam, a US national undergrad Math competition</li>
                 <li>I love playing guitar, solving Math problems, and imagining things🌱</li>
               </ul>
               <h3>Hobbies</h3>
