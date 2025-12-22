@@ -25,6 +25,9 @@
     </table>
 </html>
 
+![Flutter](https://img.shields.io/badge/Flutter-red?style=for-the-badge&logo=flutter&labelColor=4357AD&color=48A9A6)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
+![Dart](https://img.shields.io/badge/Dart-red?style=for-the-badge&logo=dart&labelColor=36558F&color=40376E)
 ![React](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&labelColor=FA8334&color=FFFD77)
 ![Node.JS](https://img.shields.io/badge/node.js-red?style=for-the-badge&logo=node.js&labelColor=DAFF7D&color=B2EF9B)
 ![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript&labelColor=010400&color=30332E)
@@ -36,9 +39,6 @@
 ![Flask](https://img.shields.io/badge/Flask-red?style=for-the-badge&logo=Flask&labelColor=2D2A32&color=DDD92A)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&labelColor=335C67&color=FFF3B0)
 ![Spring](https://img.shields.io/badge/Spring-red?style=for-the-badge&logo=spring&labelColor=293F14&color=386C0B)
-![Dart](https://img.shields.io/badge/Dart-red?style=for-the-badge&logo=dart&labelColor=36558F&color=40376E)
-![Flutter](https://img.shields.io/badge/Flutter-red?style=for-the-badge&logo=flutter&labelColor=4357AD&color=48A9A6)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-red?style=for-the-badge&logo=c%2B%2B&labelColor=233D4D&color=FE7F2D)
 ![Unity](https://img.shields.io/badge/Unity-red?style=for-the-badge&logo=unity&labelColor=33658A&color=2F4858)
 ![Go](https://img.shields.io/badge/Go-red?style=for-the-badge&logo=go&labelColor=042A2B&color=5EB1BF)
 ![MySQL](https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&labelColor=EABFCB&color=C191A1)
